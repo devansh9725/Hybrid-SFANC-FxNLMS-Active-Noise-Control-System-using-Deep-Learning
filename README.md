@@ -126,6 +126,9 @@ If you use or extend this repository in your research, please cite the original 
 - For queries on the original algorithm: Zhengding Luo (LUOZ0021@e.ntu.edu.sg), Dongyuan Shi (dongyuan.shi@ntu.edu.sg)  
 - For modifications, issues, or enhancement suggestions, feel free to open an issue in this repo.
 
+- For queries on the new algorithm: Devansh Wadhvana(devansh.22063@iitgoa.ac.in), Hard Kapadia(hard.kapadia.22063@iitgoa.ac.in)
+- For modifications, issues, or enhancement suggestions, feel free to open an issue in this repo.
+
 ---
 
 ## 🏷️ License
