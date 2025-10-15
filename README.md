@@ -9,6 +9,7 @@ This repository provides the implementation of the **Hybrid SFANC‑FxNLMS algor
 > Authors: Zhengding Luo, Dongyuan Shi, Woon‑Seng Gan
 >
 > "Optimised Deep Learning ANC with FxEHCAF Algorithm "
+> 
 > Authors: Krishna Kumar, Devansh Wadhvana, Hard Kapadia
 
 The hybrid approach combines a **lightweight 1D CNN** for selecting a pre-trained control filter per frame and the **FxNLMS** algorithm to dynamically update its coefficients at the sampling rate.
